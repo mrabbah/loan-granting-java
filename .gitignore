@@ -1,0 +1,11 @@
+*.project
+.settings
+*.classpath
+*.factorypath
+**/META-INF/**
+**/classes/**
+*.iml
+**/.idea/**
+target/
+/*.log
+/data/elasticsearch/nodes/0/*
